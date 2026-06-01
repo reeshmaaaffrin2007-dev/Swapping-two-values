@@ -18,6 +18,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+ <img width="391" height="229" alt="{AFE25575-017F-4FEF-8342-ED7EDDF47788}" src="https://github.com/user-attachments/assets/355139ca-bf64-4e2d-8f16-db326e9819ef" />
+
 
 
 
